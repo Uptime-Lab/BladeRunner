@@ -1,4 +1,4 @@
-# Comupte Blade mount solution for 3D printing
+# Compute Blade mount solution for 3D printing
 [Official website uplab.pro](https://uplab.pro/)
 [Instagram](https://www.instagram.com/uptime.lab/)
 [Twitter](https://twitter.com/merocle)
