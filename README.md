@@ -1,3 +1,6 @@
+# Redirect
+This page is no longer being updated and the new repo is [uptime-industries/compute-blade](https://github.com/uptime-industries/compute-blade/tree/main/bladerunner)
+
 # Compute Blade mount solution for 3D printing
 [Official website uplab.pro](https://uplab.pro/)
 [Instagram](https://www.instagram.com/uptime.lab/)
